@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&text=원준의%20깃허브)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20My%20GitHub%20Profile!)
 <br>
 <br>
 ### Language
@@ -24,7 +24,8 @@
 
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/74e5b1a0-0a66-43b6-a92b-0520a5230807" alt="KT 에이블스쿨 수료증 (AI개발자트랙)" width="167px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/user-attachments/assets/74e5b1a0-0a66-43b6-a92b-0520a5230807" alt="KT 에이블스쿨 수료증 (AI개발자트랙)" width="167px" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
