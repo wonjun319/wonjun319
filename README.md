@@ -21,7 +21,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 <br>
-https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/enB4NmVSdDlodWFvc3kwMWNySG9XQT09
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/user-attachments/assets/74e5b1a0-0a66-43b6-a92b-0520a5230807" alt="KT 에이블스쿨 수료증 (AI개발자트랙)" width="167px" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
