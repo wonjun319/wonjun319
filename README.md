@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20My%20GitHub%20Profile!)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome%20to%20My%20Profile!)
 <br>
 <br>
 ### Language
