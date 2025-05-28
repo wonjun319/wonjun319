@@ -28,6 +28,6 @@
 
 <img src="https://github.com/user-attachments/assets/74e5b1a0-0a66-43b6-a92b-0520a5230807" alt="KT 에이블스쿨 수료증 (AI개발자트랙)" width="167px" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-🏅 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 – 사장상(장려상)
+🏅 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 – 한국관광공사 사장상(장려상)
 
 </div>
