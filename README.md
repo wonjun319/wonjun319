@@ -62,23 +62,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wonjun319&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonjun319&theme=tokyonight" alt="profile summary" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wonjun319&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://streak-stats.demolab.com/?user=wonjun319&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wonjun319&theme=tokyonight" alt="repos per language" />
 </p>
 
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/wonjun319"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <!-- 아래 링크는 사용하시는 것으로 바꿔주세요 -->
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="blog"/></a>
-</p>
-
-<p align="center"><i>“작게 만들고, 빠르게 검증하고, 꾸준히 개선합니다.”</i></p>
