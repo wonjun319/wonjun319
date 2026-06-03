@@ -1,33 +1,84 @@
+<h1 align="center">안녕하세요, 서원준입니다 👋</h1>
 
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome%20to%20My%20Profile!)
-<br>
-<br>
-### Language
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <b>모바일 · 웹 · IoT를 넘나드는 풀스택 개발자</b><br/>
+  아이디어를 동작하는 제품으로 만드는 걸 좋아합니다.
+</p>
 
-### Frameworks 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=black)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wonjun319&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-### Others
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
-<br>
-<br>
+## 🧑‍💻 About Me
 
-<img src="https://github.com/user-attachments/assets/74e5b1a0-0a66-43b6-a92b-0520a5230807" alt="KT 에이블스쿨 수료증 (AI개발자트랙)" width="167px" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-🏅 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 – 한국관광공사 사장상(장려상)
+- 🚀 **Flutter**로 모바일 앱을, **Next.js / TypeScript**로 웹을, **Python / Java / PHP**로 백엔드를 만듭니다.
+- 🤖 생성형 AI, **라즈베리파이 기반 IoT** 등 다양한 분야를 직접 만들어보며 배웁니다.
+- 🧾 실제 업무에 쓰이는 **견적서·거래명세서 자동화** 같은 실용적인 도구 개발에 관심이 많습니다.
+- 🌱 늘 새로운 기술을 학습하고, 작은 프로젝트로 빠르게 검증하는 것을 즐깁니다.
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| 프로젝트 | 설명 | 기술 |
+|---|---|---|
+| 🧾 [**for_Selling**](https://github.com/wonjun319/for_Selling) | 견적서·거래명세서를 작성해 PDF로 출력/공유하는 모바일 앱 | `Flutter` |
+| 🌦️ [**weatherapp**](https://github.com/wonjun319/weatherapp) ⭐ | 실시간 날씨 정보를 보여주는 모바일 앱 | `Flutter` |
+| 📺 [**Signage** (Fe](https://github.com/wonjun319/SignageFe) · [Be)](https://github.com/wonjun319/SignageBe) | 디지털 사이니지 관리 시스템 (프론트엔드 + 백엔드) | `TypeScript` `Laravel` |
+| 🍱 [**Mealkid-GenerativeAI-FairyTale**](https://github.com/wonjun319/Mealkid-GenerativeAI-FairyTale) | 생성형 AI로 동화를 만들어주는 프로젝트 | `GenAI` |
+| 📷 [**Jucycam**](https://github.com/wonjun319/Jucycam-SmartHomeCamProject-With-Raspberry-Pi) | 라즈베리파이 기반 스마트홈 카메라 | `Python` `Raspberry Pi` |
+| 🦖 [**dino-game**](https://github.com/wonjun319/dino-game) | 브라우저에서 즐기는 공룡 게임 | `JavaScript` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wonjun319&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun319&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wonjun319&theme=tokyonight&hide_border=true" alt="github streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/wonjun319"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <!-- 아래 링크는 사용하시는 것으로 바꿔주세요 -->
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="blog"/></a>
+</p>
+
+<p align="center"><i>“작게 만들고, 빠르게 검증하고, 꾸준히 개선합니다.”</i></p>
